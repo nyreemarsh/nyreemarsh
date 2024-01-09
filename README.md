@@ -12,7 +12,7 @@ I am a second year undergraduate student studying BASc Arts and Sciences at Univ
   <li>BASC0020 <em>Art and Interdisciplinarity</em></li>
   <li>BASC0080 <em>Computer Simulations in Science and Engineering</em></li>
   <li>CHEM0016 <em>Organic Chemistry</em></li>
-  <li>LCMA0005 <em>Mandarin Level 5: Business and Current Affairs</em>em></li>
+  <li>LCMA0005 <em>Mandarin Level 5: Business and Current Affairs</em></li>
   <li>And JavaScript in my free time!!</li>
 </ul>
 
