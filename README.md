@@ -1,19 +1,14 @@
 # Hi, I'm Nyree 👋
 
-I am a second year undergraduate student studying BASc Arts and Sciences at University College London. I enjoy learning about design principles and visualisation, user interface and experience, and how to code!
+I am a thirrd year undergraduate student studying BASc Arts and Sciences at University College London, going on a year abroad to Seoul National University! I enjoy learning about design principles and visualisation, user interface and experience, and how to code!
 
 ***
 
 ### 💡I'm currently learning:
 <ul>
-  <li>BARC0100 <em>Computing for Design and Creative Practice</em></li>
-  <li>BASC0005 <em>Quantitative Methods 2: Data Science and Visualisation</em></li>
-  <li>BASC0017 <em>Interdisciplinary Game Theory</em></li>
-  <li>BASC0020 <em>Art and Interdisciplinarity</em></li>
-  <li>BASC0080 <em>Computer Simulations in Science and Engineering</em></li>
-  <li>CHEM0016 <em>Organic Chemistry</em></li>
-  <li>LCMA0005 <em>Mandarin Level 5: Business and Current Affairs</em></li>
-  <li>And JavaScript in my free time!!</li>
+  <li>JavaScript</em></li>
+  <li>Data Structures and Algorithms</li>
+  <li>Blender</li>
 </ul>
 
 ### 💻Find me online:
