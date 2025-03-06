@@ -7,8 +7,8 @@ I am a third year undergraduate student studying BASc Arts and Sciences at Unive
 ### 💡I'm currently learning:
 <ul>
   <li>JavaScript</em></li>
-  <li>Data Structures and Algorithms</li>
-  <li>Research Software Engineering</li>
+  <li>Data Science with Python</li>
+  <li>UX/UI Design</li>
 </ul>
 
 ### 💻Find me online:
