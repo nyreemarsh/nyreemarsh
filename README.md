@@ -6,7 +6,7 @@ I am a third year undergraduate student studying BASc Arts and Sciences at Unive
 
 ### 💡I'm currently learning:
 <ul>
-  <li>Flutter</em></li>
+  <li>React</em></li>
   <li>Data Science with SQL</li>
   <li>UX/UI Design</li>
 </ul>
