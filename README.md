@@ -1,6 +1,6 @@
 # Hi, I'm Nyree ૮ ․ ․ ྀིა
 
-I am a third year undergraduate student studying BASc Arts and Sciences at University College London, on a year abroad to Seoul National University! I enjoy learning about design principles and visualisation, user interface and experience, and how to code!
+I am a final year undergraduate student studying BASc Arts and Sciences at University College London, and have just completed an exchange year at Seoul National University! I enjoy learning about user experience, human computer interaction and AI!
 
 ***
 
