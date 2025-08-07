@@ -1,4 +1,4 @@
-# Hi, I'm Nyree 👋
+# Hi, I'm Nyree ૮ ․ ․ ྀིა
 
 I am a third year undergraduate student studying BASc Arts and Sciences at University College London, on a year abroad to Seoul National University! I enjoy learning about design principles and visualisation, user interface and experience, and how to code!
 
