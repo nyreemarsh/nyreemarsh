@@ -8,6 +8,7 @@ I am a third year undergraduate student studying BASc Arts and Sciences at Unive
 <ul>
   <li>React Native</em></li>
   <li>Data Science with SQL</li>
+  <li>Agentic RAG</li>
   <li>UX/UI Design</li>
 </ul>
 
