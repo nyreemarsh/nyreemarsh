@@ -6,8 +6,8 @@ I am a final year undergraduate student studying BASc Arts and Sciences at Unive
 
 ### 💡I'm currently learning:
 <ul>
-  <li>React Native</em></li>
-  <li>Data Science with SQL</li>
+  <li>Application Design</em></li>
+  <li>Data Science using SQL</li>
   <li>Agentic RAG</li>
   <li>UX/UI Design</li>
 </ul>
