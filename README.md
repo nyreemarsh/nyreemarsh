@@ -8,7 +8,7 @@ I am a final year undergraduate student studying BASc Arts and Sciences at Unive
 <ul>
   <li>Application Design</em></li>
   <li>Data Science using SQL</li>
-  <li>Agentic RAG</li>
+  <li>Agent Building</li>
   <li>UX/UI Design</li>
 </ul>
 
